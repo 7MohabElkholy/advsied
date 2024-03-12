@@ -1,0 +1,23 @@
+.normal {
+  padding: 10px;
+  border: none;
+  border-radius: 0;
+
+  width: 100%;
+
+  background-color: black;
+  color: white;
+
+  text-transform: uppercase;
+  /* font-weight: 600; */
+  letter-spacing: 1px;
+}
+
+.no-text {
+  padding: 0;
+  width: fit-content;
+  height: fit-content;
+
+  border: none;
+  background-color: transparent;
+}
