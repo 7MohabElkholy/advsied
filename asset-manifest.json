@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/advsied/static/css/main.9d1d7a13.css",
+    "main.js": "/advsied/static/js/main.18062564.js",
+    "index.html": "/advsied/index.html",
+    "static/media/bookmark-filled.svg": "/advsied/static/media/bookmark-filled.0992d60067280f1790a1b68e1d2ea614.svg",
+    "static/media/bookmark.svg": "/advsied/static/media/bookmark.4b8439822949fc7b58ef454d9500b3a4.svg",
+    "static/media/bookmark-filled-white.svg": "/advsied/static/media/bookmark-filled-white.e34e5d670fa4c5f5f0f6090d7b9b72e8.svg",
+    "main.9d1d7a13.css.map": "/advsied/static/css/main.9d1d7a13.css.map",
+    "main.18062564.js.map": "/advsied/static/js/main.18062564.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d1d7a13.css",
+    "static/js/main.18062564.js"
+  ]
+}
